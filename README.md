@@ -31,7 +31,6 @@ I am a Full Stack Junior Developer <img src="https://media.giphy.com/media/WUlpl
 </div>
 
 ---
-<div align="center">
   
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -43,6 +42,4 @@ I am a Full Stack Junior Developer <img src="https://media.giphy.com/media/WUlpl
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS£" width="40" height="40"/>&nbsp;
   </div>
-
-</div>
 
