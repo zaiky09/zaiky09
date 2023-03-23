@@ -42,4 +42,12 @@ I am a Full Stack Junior Developer <img src="https://media.giphy.com/media/WUlpl
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS£" width="40" height="40"/>&nbsp;
   </div>
+  
+  ---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaiky09&theme=github-light&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaiky09&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
