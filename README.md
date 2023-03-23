@@ -33,7 +33,7 @@ I am a Full Stack Junior Developer <img src="https://media.giphy.com/media/WUlpl
 - 👯 I’m looking to collaborate on projects that are online service apps(e.g. food, transportation), database creation & organisational apps(e.g. charity organisation databases)
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ... -->
-- 📫 How to reach me: zamil,ozamil@outlook.com
+- 📫 How to reach me: zamilmozamil@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There is not one single solid study on higher consciousness
 
